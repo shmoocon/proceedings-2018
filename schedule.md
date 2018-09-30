@@ -2,127 +2,117 @@
 
 ## ONE TRACK MIND
 
-1. Pseudo-Doppler Redux
-   * Michael Ossmann
-   * Schuyler St. Leger
-2. Don’t Ignore GDPR; It Matters Now!
-   * Thomas Fischer
-3. The Friedman Tombstone — A Cipher in Arlington National Cemetery
-   * Elonka Dunin
-4. Your Cerebellum as an Attack Surface: How Does the Brain Stay Secure?
-   * Avani Wildani
-5. Tap, Tap, Is This Thing On? Testing EDR Capabilities
-   * Casey Smith
-6. Running a Marathon Without Breaking a Sweat? Forensic Manipulation of Fitness App Data.
-   * Mika Devonshire
-7. Keynote
-   * Neil Gershenfeld
+1. Opening Remarks, Rumblings, Ruminations, and Rants
+2. U2F Zero: Secure Hardware Design, DIY Mass Production, and Amazon Prime
+   * Conor Patrick
+3. 35 Years of Cyberwar: The Squirrels are Winning
+   * Space Rogue
+4. Implantable Logic Analyzers and Unlocking Doors
+   * Kenny McElroy
+5. Cyborg Self-Hacking: An Examination of Cochlear Implants
+   * Jeff Dodge
+6. Introducing Jak: Safely Share Sensitive Files via Git
+   * Chris DiLorenzo
+7. [Can a Drunk Person Authenticate Using Brainwaves? #NotAlcoholicsJustResearchers](otm/07_can_a_drunk_person_authenticate.md)
+   * Tommy Chin
+   * Peter Muller
+8. Keynote Seven Things: Frank Zappa, T. Coraghassen Boyle, and Twenty-one Years in Security
+   * Dr. Gary McGraw
 
 ## BUILD IT!
 
-1. Opening Closed Systems with GlitchKit
-   * Kate Temkin
+1. So You Want to Hack Radios
+   * Marc Newlin
+   * Matt Knight
+2. Exploring The Infrared World
    * Dominic Spill
-2. When CAN CANT
-   * Tim Brom
-   * Mitchell Johnson
-3. Building a GoodWatch
-   * Travis Goodspeed
-4. ODA: A Collaborative, Open Source Reversing Platform in the Cloud
-   * Anthony DeRosa
-   * Bill Davis
-5. Better Git Hacking: Extracting “Deleted” Secrets from Git Databases with Grawler
-   * Justin Regele
-6. CertGraph: A Tool to Crawl the Graph of SSL Certificate Alternate Names using Certificate Transparency
-   * Ian Foster
-7. afl-unicorn: Fuzzing the ‘Unfuzzable’
-   * Nathan Voss
-8. radare2 in Conversation
-   * Richard Seymour
-9. OK Google, Tell Me About Myself
-Lisa Chang
-10. Embedded Device Vulnerability Analysis Case Study Using TROMMEL
-   * Kyle O’Meara
-   * Madison Oliver
-11. 0wn the Con
+   * Michael Ossmann
+3. [A Context-Aware Kernel IPC Firewall for Android](build/03_a_context_aware_kernel_ipc_firewall.md)
+   * David Wu
+   * Sergey Bratus
+4. [WaveConverter – An Open Source Software Tool for RF Reverse Engineering](build/04_wave_converter.md)
+   * Paul Clark
+5. [I Have a Graph Database. Now What?](build/05_i_have_a_graph_database.md)
+   * Nicolas Kseib
+   * Shimon Modi
+6. 0wn the Con
    * The Shmoo Group
-12. SIGINT on a budget: Listening in, gathering data and watching–for less than $100
-   * Phil Vachon
-   * Andrew Wong
+7. [User Focused Security at Netflix: Stethoscope](build/07_user_focused_security_at_netflix.md)
+   * Andrew White
+   * Jesse Kriss
+8. ripr – Run Slices of Binary Code from Python
+   * Patrick Biernat
+9. Safety Bot Guaranteed
+   * Rich Seymour
+10. [\(In-\)secure messaging with SCIMP and OMEMO](build/10_insecure_messaging_with_scimp_omemo.md)
+   * Sebastian Verschoor
 
 ## BELAY IT!
 
-1. The Background Noise of the Internet
-   * Andrew Morris
-2. Profiling and Detecting all Things SSL with JA3
-   * John Althouse
-   * Jeff Atkinson
-3. Nation-State Espionage: Hunting Multi-Platform APTs on a Global Scale
-   * Mike Flossman
-   * Eva Halperin
-   * Cooper Quintin
-4. Catch Me If You Can: A Decade of Evasive Malware Attack and Defense
-   * Alexei Bulazel
-   * Bülent Yener
-5. Someone is Lying to You on the Internet–Using Analytics to Find Bot Submissions in the FCC Net Neutrality Submissions
-   * Leah Figueroa
-6. Bludgeoning Bootloader Bugs: No Write Left Behind
-   * Rebecca Shapiro
-7. AWS Honey Tokens with SPACECRAB
-   * Dan Bourke
-8. Time Signature Based Matching for Data Fusion and Coordination Detection in Cyber Relevant Logs
-   * Lauren Deason
-9. Defending Against Robot Attacks
-   * Brittany Postnikoff
-10. Deep Learning for Realtime Malware Detection
-   * Domenic Puzio
-   * Kate Highnam
-11. Securing Bare Metal Hardware at Scale
-   * Paul McMillan
-   * Matt King
-12. Getting Cozy with OpenBSM Auditing on MacOS … The Good, the Bad, & the Ugly
-   * Patrick Wardle
+1. LangSec for Penetration Testing: How and Why
+   * Falcon Darkstar Momot
+   * Sergey Bratus
+2. Know Normal, Find Evil: Windows 10 Edition
+   * Jake Williams
+3. Who Wants to Allow Arbitrary Code Execution on Their Boxes? We Do It Every Day.
+   * Brian Redbeard
+   * Brad Ison
+4. Goodnight Moon & the House of Horrors: A look at the current IoT ecosystem and the regulations trying to control it
+   * Whitney Merrill
+   * Aaron Alva
+5. [Plug-in Electric Vehicle Fingerprinting: Authentication for Plug-in Electric Vehicles](belay/05_pev_fingerprinting.md)
+   * Rebekah Houser
+6. [Defeating Sandbox Evasion: How to Increase Successful Emulation Rate in Your Virtualized Environment](belay/06_defeating_sandbox_evasion.md)
+   * Alexander Chailytko
+   * Stanislav Skuratovich
+7. Anti-Ransomware: Turning the Tables
+   * Gal Shpantzer
+   * G. Mark Hardy
+8. [Dig Out Your Brick Phone! Bringing AMPS Back with GNU Radio](belay/08_dig_out_your_brick_phone.md)
+   * Brandon Creighton
+9. [Excuse me, Server, Do You Have the Time?](belay/09_excuse_me_server.md)
+   * Brian Cardinale
+10. Does a BEAR Leak in the Woods? The Democratic National Committee breach, Russian APTs, and the 2016 U.S. Election
+   * Toni Gidwani
 
 ## BRING IT ON!
 
-1. IoT RCE, a Study With Disney
-   * Lilith Wyatt
-2. Pages from a Sword-Maker’s Notebook pt. II
-   * Vyrus
-3. Building Absurd Christmas Light Shows
-   * Rob Joyce
-4. Electronic Voting in 2018: Threat or Menace
+1. [A Widening Attack Plain: Threatcasting Tomorrow’s Threats](bring/01_a_widening_attack_plain.md)
+   * Brian David Johnson
+   * Natalie Vanatta
+2. Ask the Feds
+   * Allan Friedman
+   * Nick Leiserson
+   * Eric Mill
+   * Jessica Wilkerson
+3. Ask the EFF: Protecting Tomorrow
+   * Kurt Opsahl
+   * Andrew Crocker
+4. [háček: Computing a Hacker Experience](bring/04_háček.md)
+   * Allison Miller
+   * Melissa Clarke
+   * Margaret Schedel
+5. Flailing is Learning: My First Year as a Malware Analyst
+   * Lauren Pearce
+6. The State of Secure Messaging
+   * Nikita Borisov
+   * Sze Chuen Tan
+7. The Metadata is the Message (and Sometimes the Message is the Metadata
    * Matt Blaze
-   * Joe Hall
-   * Margaret MacAlpine
-   * Harri Hursti
-5. A Social Science Approach to Cybersecurity Education for all Disciplines
-   * Aunshul Rege
-6. Listing the 1337: Adventures in Curating HackerTwitter’s Institutional Knowledge
-   * hex waxwing
-   * Daniel Gallagher
-7. Cyberlaw: Year in Review
-   * Steve Black
-8. Skill Building By Revisiting Past CVEs
-   * Sandra Escandor-O’Keefe
-9. Hacking the News: an Infosec Guide to the Media, and How to Talk to Them
-   * Sean Gallagher
-   * Steve Ragan
-   * Paul Wagenseil
-10. This Is Not Your Grandfather’s SIEM
-   * Carson Zimmerman
-11. CITL — Quantitative, Comparable Software Risk Reporting
-   * Sarah Zatko
-   * Tim Carstens
-   * Parker Thompson
-   * Peiter “Mudge” Zatko
-   * Patrick Stach
-12. Do as I Say, Not as I Do: Hacker Self Improvement and You
-   * Russell Handorf
+8. A Nickel Tour of the Ad Fraud Ecosystem
+   * Ryan Castellucci
+9. The Threat Intel Results are in… You are NOT the hacker! : Disinformation Campaigns vs. Attribution Claims
+   * Mark Kuhr
+10. Challenges and Opportunities: Application Containers and Micro Services
+   * Anil Karmel
+   * Andrew Wild
 
 ## CLOSING
 
-1. 
-
-
-
+1. Designing and Executing the Worldís First All-Computer Hacking Competition: A panel with the development team
+   * Tim Vidas
+   * Chris Eagle
+   * Jason Wright
+   * Brian Caswell
+   * Mike Thompson
+   * Holt Sorenson
